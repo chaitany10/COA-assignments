@@ -1,0 +1,4 @@
+Half Adder circuit
+In this program there are 2 inputs inputBit1 and inputBit2 and two outputs sum and carry.
+According to the truth table of half adder. Sum is xor of a and b and carry is and of and b.
+These values are assigned to respective output.
