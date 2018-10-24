@@ -1,0 +1,9 @@
+Decoder
+Implemented using NAND gates.
+For example D[0] is low only if all inputs(a,b,c,d) are low.
+Enable determines whether decoder is active or not.
+Encoder
+In this question according to truth table of the encoder outputs are assigned the desired value.
+e.g. output a[3] is 1 if d[8] or d[9] or d[10] or d[11] or d[12] or d[13] or d[14] or d[15] is 1.
+Meaning if any one of these inputs are 1 output a[3] will be one. So or gates are used to get desired output.
+Again Enable is used to show when the circuit is active and when not.
