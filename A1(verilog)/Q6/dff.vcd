@@ -1,0 +1,323 @@
+$date
+	Mon Oct 15 22:00:24 2018
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module testdff $end
+$var wire 1 ! Qsr $end
+$var wire 1 " Qnsr $end
+$var wire 1 # Qnms $end
+$var wire 1 $ Qn $end
+$var wire 1 % Qms $end
+$var wire 1 & Q $end
+$var reg 1 ' C $end
+$var reg 1 ( D $end
+$var reg 1 ) Dms $end
+$var reg 1 * Dsr $end
+$scope module MS $end
+$var wire 1 ' C $end
+$var wire 1 ) Dms $end
+$var wire 1 + yn $end
+$var wire 1 , y $end
+$var wire 1 # Qnms $end
+$var wire 1 % Qms $end
+$scope module master $end
+$var wire 1 ) D $end
+$var wire 1 - D1 $end
+$var wire 1 . Dn $end
+$var wire 1 / Dn1 $end
+$var wire 1 ' G $end
+$var wire 1 , Q $end
+$var wire 1 + Qn $end
+$upscope $end
+$scope module slave $end
+$var wire 1 , D $end
+$var wire 1 0 D1 $end
+$var wire 1 1 Dn $end
+$var wire 1 2 Dn1 $end
+$var wire 1 3 G $end
+$var wire 1 % Q $end
+$var wire 1 # Qn $end
+$upscope $end
+$upscope $end
+$scope module behav $end
+$var wire 1 ' c $end
+$var wire 1 ( d $end
+$var reg 1 & q $end
+$var reg 1 $ q1 $end
+$upscope $end
+$scope module sr $end
+$var wire 1 ' C $end
+$var wire 1 * D $end
+$var wire 1 ! Q $end
+$var wire 1 " Qn $end
+$var wire 1 4 R $end
+$var wire 1 5 S $end
+$var wire 1 6 w1 $end
+$var wire 1 7 w2 $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+17
+06
+15
+14
+13
+x2
+x1
+x0
+1/
+1.
+1-
+x,
+x+
+0*
+0)
+0(
+0'
+0&
+x%
+1$
+x#
+x"
+x!
+$end
+#1000
+11
+0,
+0!
+10
+12
+1+
+1"
+03
+0/
+04
+1'
+#2000
+0%
+1#
+02
+13
+1/
+14
+0'
+#3000
+12
+03
+0/
+04
+1'
+#4000
+02
+13
+1/
+14
+0'
+#5000
+12
+03
+0/
+04
+1'
+#6000
+02
+13
+1/
+14
+0'
+#7000
+12
+03
+0/
+04
+1'
+#8000
+16
+02
+07
+13
+1/
+14
+0.
+0'
+1*
+1)
+1(
+#9000
+0+
+01
+0"
+12
+1,
+1!
+03
+0-
+0$
+1&
+05
+1'
+#10000
+0#
+1%
+00
+13
+1-
+15
+0'
+#11000
+10
+03
+0-
+05
+1'
+#12000
+00
+13
+1-
+15
+0'
+#13000
+10
+03
+0-
+05
+1'
+#14000
+00
+13
+1-
+15
+0'
+#15000
+10
+03
+0-
+05
+1'
+#16000
+00
+06
+13
+15
+17
+1.
+1-
+0'
+0*
+0)
+0(
+#17000
+11
+0,
+0!
+10
+1+
+1"
+03
+0/
+1$
+0&
+04
+1'
+#18000
+0%
+1#
+02
+13
+1/
+14
+0'
+#19000
+12
+03
+0/
+04
+1'
+#20000
+02
+13
+1/
+14
+0'
+#21000
+12
+03
+0/
+04
+1'
+#22000
+02
+13
+1/
+14
+0'
+#23000
+12
+03
+0/
+04
+1'
+#24000
+16
+02
+07
+13
+1/
+14
+0.
+0'
+1*
+1)
+1(
+#25000
+0+
+01
+0"
+12
+1,
+1!
+03
+0-
+0$
+1&
+05
+1'
+#26000
+0#
+1%
+00
+13
+1-
+15
+0'
+#27000
+10
+03
+0-
+05
+1'
+#28000
+00
+13
+1-
+15
+0'
+#29000
+10
+03
+0-
+05
+1'
+#30000
+00
+13
+1-
+15
+0'
