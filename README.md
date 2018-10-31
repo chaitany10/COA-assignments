@@ -1,2 +1,7 @@
 # COA-assignments
-contains my code for RISC-V assignments in 3rd semester
+Contains code for RISC-V and Verilog assignments in 3rd semester.
+
+
+Submitted by:
+Chaitany Pandiya
+Siddharth Singh
