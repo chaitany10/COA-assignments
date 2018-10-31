@@ -1,0 +1,5 @@
+-Implemented 32 bit register using 32 D flipflop that were used in previous question(added a reset).
+
+-A for loop is generated for each one of the 32 bit and each input is fed to dflip flop when reset is 0.
+
+-When reset is equal to 1,the register is cleared by storing 0 in each of the 32 flipflops. 
